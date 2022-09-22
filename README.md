@@ -1,12 +1,4 @@
 # Railway-Reservation-System-PHP
-Credits:-
-
-  Sajeed Ansari (Ramrao Adik Institute of Technology)
-  
-  Mitali Bhongade (Ramrao Adik Institute of Technology)
-  
-  pragati Bhonsale (Ramrao Adik Institute of Technology)
-  
 
 INTRODUCTION :-
 
